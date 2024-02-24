@@ -1,0 +1,11 @@
+models:
+  Contact:
+    first_name: string
+    last_name: string
+    email: string
+    job_title: string
+    city: string
+    country: string
+controllers:
+  Contact:
+    resource: web
